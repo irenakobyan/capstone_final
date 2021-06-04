@@ -1,0 +1,54 @@
+.PartnerAll {
+  text-align: center;
+  font-size: 1.3em;
+  background-color: #E3DBD8;
+  padding: 2em;
+  margin: auto;
+  align-items: center;
+}
+
+.eachBox {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.PartnerItems {
+  display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+
+.PartnerItems p {
+    font-weight: 100;
+}
+
+.PartnerItems div {
+  cursor: pointer;
+}
+
+a.button1{
+ display: inline-block;
+ padding: 0.35em 1.2em;
+ color: #000000;
+ border: 0.1em solid #000000;
+ margin: 0 0.3em 0.3em 0;
+ border-radius: 0.12em;
+ box-sizing: border-box;
+ text-decoration: none;
+ font-weight: 300;
+ transition: all 0.2s;
+}
+
+a.button1:hover{
+ background-color: white;
+}
+
+@media (max-width: 1200px) {
+  .PartnerItems {
+    flex-direction: column;
+  }
+}

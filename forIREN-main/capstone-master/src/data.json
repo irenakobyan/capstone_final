@@ -1,0 +1,77 @@
+{
+  "cafe": [
+    {
+      "name": "Le Cafe de Paris",
+      "review": "4.7",
+      "address": " 26/2 Martiros Saryan St, Yerevan 0002",
+      "phone": "(010) 538901",
+      "cuisine": "Dessert",
+      "logo": "http://travelarmenia.org/wp-content/uploads/2015/12/parisian-cafe.jpg"
+    },
+    {
+      "name": "Rooby Cafe Cascade",
+      "review": "4.9",
+      "address": " 6 Tamanyan St, Yerevan",
+      "phone": "099 531312",
+      "cuisine": "Coffee and Tea",
+      "logo": "https://media-cdn.tripadvisor.com/media/photo-s/17/80/2e/73/getlstd-property-photo.jpg"
+    },
+    {
+      "name": "Malocco Cafe Cascade",
+      "review": "4.5",
+      "address": "1 Tamanyan St",
+      "phone": "096 531327",
+      "cuisine": "Sushi",
+      "logo": "https://media-cdn.tripadvisor.com/media/photo-s/04/13/c0/f7/malocco-cafe.jpg"
+    },
+    {
+      "name": "The Green Bean",
+      "review": "4.5",
+      "address": " 10 Amiryan St, Yerevan",
+      "phone": " 091 529279",
+      "cuisine": "Dessert",
+      "logo": "https://media-cdn.tripadvisor.com/media/photo-s/05/b0/5e/9e/the-green-bean.jpg "
+    },
+    {
+      "name": "Coffeeshop Company Yerevan",
+      "review": "4.4",
+      "address": " 5, 4 Amiryan St, Yerevan 0010",
+      "phone": "(011) 263333",
+      "cuisine": "Dessert",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Coffeeshop_Company_logo.svg/1200px-Coffeeshop_Company_logo.svg.png"
+    },
+    {
+
+      "name": "Mon café",
+      "review": "4.2",
+      "address": " 4, 6 Amiryan St, Yerevan 0001",
+      "phone": "041 601601",
+      "cuisine": "Dessert",
+      "logo": "https://www.yell.am/images/pictures/635/5e5a076c68aaamonmar.jpg-resize.jpg"
+    },
+    {
+      "name": "Van Gogh Art Cafe",
+      "review": "4.4",
+      "address": " 31, 3 Tumanyan St, Yerevan 0002",
+      "phone": "098 302464",
+      "cuisine": "Dessert",
+      "logo": "https://www.armeniatourinfo.com/wp-content/uploads/2019/07/15354225_1376278979080330_2002953097_o.jpg"
+    },
+    {
+      "name": "Achajour Parpetsi",
+      "review": "4.5",
+      "address": " 22 Ghazar Parpetsi St, Yerevan 0002",
+      "phone": " (010) 536766",
+      "cuisine": "Dessert",
+      "logo": "https://www.helix.am/content_images/portfolio/1/10/logo.jpeg"
+    },
+    {
+      "name": "Crumbs Bread Factory/Cafe",
+      "review": "4.5",
+      "address": " 37 Mesrop Mashtots Ave, Yerevan 0001",
+      "phone": "(010) 537013",
+      "cuisine": "Dessert",
+      "logo": "http://www.marogmarketing.com/site/images/clients/crumbs_logo_320_1472042715.jpg"
+    }
+  ]
+}
